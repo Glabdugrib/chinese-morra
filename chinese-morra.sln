@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chinese-morra", "chinese-morra.csproj", "{554DB274-AF88-4378-8256-FA58BEFDEEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554DB274-AF88-4378-8256-FA58BEFDEEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554DB274-AF88-4378-8256-FA58BEFDEEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554DB274-AF88-4378-8256-FA58BEFDEEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554DB274-AF88-4378-8256-FA58BEFDEEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D1EAEE-197A-451D-A8B0-B91D50283BEB}
+	EndGlobalSection
+EndGlobal
